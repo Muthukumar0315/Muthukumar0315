@@ -2,10 +2,10 @@
 
 🚀 DevOps Engineer | ☁️ Cloud Infrastructure | ⚙️ Automation | 🐳 CI/CD | 🐧 Linux | ☸️ Kubernetes | 🛠️ Terraform
 
-About Me
+  ## About Me
 I'm a passionate DevOps Engineer with experience in building and optimizing cloud-native infrastructure. My goal is to deliver scalable, secure and highly available systems that improve product velocity and reliability.
 
-I specialize in:
+## I specialize in:
  **Cloud & Infrastructure:** AWS, Azure
  **Containers & Orchestration:** Docker,       Kubernetes
 **CI/CD & Automation:** GitHub Actions, Jenkins
